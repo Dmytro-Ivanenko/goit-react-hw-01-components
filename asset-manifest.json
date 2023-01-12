@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dmytro-Ivanenko/goit-react-hw-01-components/static/css/main.353c740d.css",
+    "main.js": "/Dmytro-Ivanenko/goit-react-hw-01-components/static/js/main.ee6684b3.js",
+    "index.html": "/Dmytro-Ivanenko/goit-react-hw-01-components/index.html",
+    "main.353c740d.css.map": "/Dmytro-Ivanenko/goit-react-hw-01-components/static/css/main.353c740d.css.map",
+    "main.ee6684b3.js.map": "/Dmytro-Ivanenko/goit-react-hw-01-components/static/js/main.ee6684b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.353c740d.css",
+    "static/js/main.ee6684b3.js"
+  ]
+}
