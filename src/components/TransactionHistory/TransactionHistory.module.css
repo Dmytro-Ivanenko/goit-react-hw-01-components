@@ -1,0 +1,17 @@
+.transaction_history {
+  width: 90%;
+  margin: 0px auto;
+}
+
+.thead {
+  background-color: antiquewhite;
+  height: 40px;
+}
+
+tr:nth-child(even) {
+  background-color: #f9ecec;
+}
+
+tr:hover {
+  background-color: rgb(115, 230, 136);
+}
